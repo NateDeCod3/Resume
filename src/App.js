@@ -14,15 +14,15 @@ function App() {
           <div className="Contact">
             <h1>Contact</h1>
             <p><span>NathanielManansala18@gmail.com</span><i className="fas fa-envelope"></i></p>
-            <p><span>+63 961 897 0487</span><i className="fas fa-phone"></i></p>
+            <p><span>+63 961-897-0487</span><i className="fas fa-phone"></i></p>
             <p><span>Masantol, Pampanga, Philippines</span><i className="fas fa-map-marker-alt"></i></p>
-            <p><a href="https://www.facebook.com/yowmate.nate">Facebook</a><i className="fab fa-facebook"></i></p>
-            <p><a href="https://github.com/NateDeCod3">Github</a><i className="fab fa-github"></i></p>
+            <p><a href="https://www.facebook.com/yowmate.nate" className="link">Facebook<i className="fab fa-facebook"></i></a></p>
+            <p><a href="https://github.com/NateDeCod3" className="link">Github<i className="fab fa-github"></i></a></p>
 
             <h1>Education</h1>
             <p>Bachelor of Science Information Technology</p>
             <p>University of the Assumption</p>
-            <p>2022 - Ongoing</p>
+            <p>2022 - 2024 (Ongoing)</p>
             <p>San Fernando, Pampanga, Philippines</p>
 
             <h1>Skills</h1>
@@ -39,7 +39,7 @@ function App() {
 
             <h2>Freshman Year</h2>
             <h4>2022 - 2023</h4>
-            <p>Python, Figma</p>
+            <p><b>Python, Figma</b></p>
             <ul>
               <li>Learned the basics of programming using Python, covering basic operators and control structures.</li>
               <ul>
@@ -53,7 +53,7 @@ function App() {
 
             <h2>Sophomore College</h2>
             <h4>2023 - 2024</h4>
-            <p>HTML, CSS, JavaScript, Java, MySQL</p>
+            <p><b>HTML, CSS, JavaScript, Java, MySQL</b></p>
             <ul>
               <li>Learned the basics of HTML, CSS, JavaScript, and Java sparking an interest in web development.</li>
               <ul>
@@ -69,7 +69,7 @@ function App() {
 
             <h2>Junior College</h2>
             <h4>2024 - current</h4>
-            <p>HTML, CSS, JavaScript, Bootstrap, NextJS, React</p>
+            <p><b>HTML, CSS, JavaScript, Bootstrap, NextJS, React</b></p>
             <ul>
               <li>Learned how to use Bootstrap to build responsive and adaptable websites. Deepened my understanding of HTML, CSS, and JavaScript.</li>
               <ul>
